@@ -1,0 +1,1 @@
+Based on: https://dev.to/xvier/connecting-cypress-to-a-postgresql-database-3po5
